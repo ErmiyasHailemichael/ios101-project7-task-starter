@@ -1,8 +1,8 @@
-# Project 7 - *Name of App Here*
+# Project 7 - *TO DO LIST *
 
-Submitted by: **Your Name Here**
+Submitted by: **Ermiyas**
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that will allow the users to add taskes and tarck the progress of a task.
 
 Time spent: **X** hours spent in total
 
